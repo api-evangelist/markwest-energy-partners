@@ -1,11 +1,34 @@
-# MarkWest Energy Partners
+# MarkWest Energy Partners (markwest-energy-partners)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for MarkWest Energy Partners.
+MarkWest Energy Partners was a master limited partnership engaged in the gathering, processing, and transportation of natural gas and natural gas liquids. The company was acquired by MPLX in 2015 and its operations have since been consolidated under the MPLX brand. No public developer APIs are offered under the MarkWest Energy Partners name.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/markwest-energy-partners/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Company
+- **Position:** Consuming
+- **Access:** 3rd-Party
+
+## Tags:
+
+ - Energy, Natural Gas, Pipeline, Acquired, MPLX
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs are documented. MarkWest Energy Partners was acquired by MPLX in 2015.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.markwest-energy-partners.com)
+- [Website](https://www.mplx.com)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
