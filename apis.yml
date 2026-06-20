@@ -7,7 +7,7 @@ description: >-
   since been consolidated under the MPLX brand. No public developer APIs are
   offered under the MarkWest Energy Partners name.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/markwest-energy-partners/refs/heads/main/apis.yml
 tags:
