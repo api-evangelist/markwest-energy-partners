@@ -7,6 +7,17 @@ description: >-
   since been consolidated under the MPLX brand. No public developer APIs are
   offered under the MarkWest Energy Partners name.
 kind: company
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
