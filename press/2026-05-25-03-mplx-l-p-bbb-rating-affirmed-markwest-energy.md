@@ -1,7 +1,9 @@
 ---
 title: MPLX L.P. 'BBB-' Rating Affirmed, MarkWest Energy
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/1492336
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MarkWest Energy Partners" press release artificial intelligence'
 position: 3
 source: serpapi-google

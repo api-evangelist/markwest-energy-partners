@@ -1,7 +1,9 @@
 ---
 title: MPLX to buy MarkWest for $15.63 billion, creating fourth- ...
 url: https://www.reuters.com/article/business/mplx-to-buy-markwest-for-1563-billion-creating-fourth-largest-mlp-idUSKCN0PN14B/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MarkWest Energy Partners" press release artificial intelligence'
 position: 5
 source: serpapi-google
