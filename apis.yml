@@ -32,6 +32,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/markwest-energy-partners.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/markwest-energy-partners/refs/heads/main/apis.yml
+x-status: "acquired"
+x-acquirer: "MPLX"
+x-acquirer-url: "https://www.mplx.com/"
+x-acquired-date: "2015-12-04"
+x-status-source: "https://ir.mplx.com/CorporateProfile/press-releases/news-release/2015/MPLX-and-MarkWest-announce-successful-completion-of-combination-and-director-and-executive-appointments/default.aspx"
+x-status-evidence: "MPLX and MarkWest announced completion of the merger on 2015-12-04, MarkWest becoming a wholly owned subsidiary of MPLX; markwest.com redirects to mplx.com. MPLX has no catalog record, so the acquirer is named, not linked (roadmap#867)"
 tags:
   - Energy
   - Natural Gas
