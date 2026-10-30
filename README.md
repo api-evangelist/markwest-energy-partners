@@ -1,4 +1,4 @@
-# MarkWest Energy Partners (markwest-energy-partners)
+# MarkWest Energy Partners
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,35 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
+
 MarkWest Energy Partners was a master limited partnership engaged in the gathering, processing, and transportation of natural gas and natural gas liquids. The company was acquired by MPLX in 2015 and its operations have since been consolidated under the MPLX brand. No public developer APIs are offered under the MarkWest Energy Partners name.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/markwest-energy-partners/refs/heads/main/apis.yml)
+**Areas:** Energy · Natural Gas · Pipelines · Acquired · MPLX
 
-## Scope
+## MarkWest Energy Partners on APIs.io (historical record)
 
-- **Type:** Company
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for MarkWest Energy Partners is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/markwest-energy-partners/](https://apis.io/providers/markwest-energy-partners/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Energy, Natural Gas, Pipeline, Acquired, MPLX
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Markwest Energy Partners Domain Security](https://apis.io/security/markwest-energy-partners/markwest-energy-partners-domain-security/)
 
-No public APIs are documented. MarkWest Energy Partners was acquired by MPLX in 2015.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.mplx.com)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MarkWest Energy Partners: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/markwest-energy-partners/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
